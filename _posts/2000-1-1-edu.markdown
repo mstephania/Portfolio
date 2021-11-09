@@ -2,14 +2,14 @@
 layout: default
 img: phd.jpg
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: PhD in Bioinformatics
+description: 2015-2020
 ---
 
-* __2012 - 2016__
-* University of California
+* __2015 - 2020__
+* University of Sao Paulo
 * Thesis Title
 * Description
-* Advisor: Dr. PI Name
+* Advisor: Dr. Helder Nakaya
 * Scholarship from: NSF
 
