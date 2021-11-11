@@ -1,7 +1,7 @@
 ---
 layout: default
 img: bachelor.jpg
-category: Experience
+category: Experiences
 title: Bioinformatician
 description: |
 ---
