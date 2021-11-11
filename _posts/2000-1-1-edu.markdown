@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dna.jpg
+img: code.jpg
 category: Education
 title: PhD in Bioinformatics
 description: |
