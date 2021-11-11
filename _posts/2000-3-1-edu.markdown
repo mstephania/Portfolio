@@ -8,7 +8,6 @@ description: |
 
 * __Jan 2020 - Aug 2020__
 * Investigation Center at Universidad de Especialidades Espiritu Santo (UEES)
-* Advisor: Dr. PI Name
-* Scholarship from: NSF
-
+* Position: Bioinformatician
+* Activities: The team I reached has been sequencing the coronavirus genome in a MiniSeq, witha 100X coverage, I was responsible for searching new variants and creating different types of metadata visualization, developing reports on Nextstrain, I also conducted a basic bioinformatics course for professors and students.
 
