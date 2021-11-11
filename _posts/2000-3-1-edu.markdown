@@ -1,13 +1,13 @@
 ---
 layout: default
 img: bachelor.jpg
-category: Education
-title: Bachelor's in Biological Sciences
+category: Experience
+title: Bioinformatician
 description: |
 ---
 
-* __2005 - 2010__
-* University of California
+* __Jan 2020 - Aug 2020__
+* Investigation Center at Universidad de Especialidades Espiritu Santo (UEES)
 * Advisor: Dr. PI Name
 * Scholarship from: NSF
 
