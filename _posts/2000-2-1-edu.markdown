@@ -6,7 +6,7 @@ title: Bachelor's in Bioinformatics
 description: |
 ---
 
-* __2010 - 2012__
+* __2006 - 2012__
 * University of Talca
 * Dissertation Title: "Análisis bioinformático de datos de expresión génica global durante el desarrollo de la semilla de Vitis vinifera"
 * Advisors: Dr. Patricio Arce Johnson and Dr. Carmen Espinoza Cancino
