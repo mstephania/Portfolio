@@ -6,7 +6,7 @@ title: "Pre-doctoral Fellowship"
 description: |
 ---
 
-* __2017 – Current__
-* University of California, Riverside
+* __2019 – 2020__
+* EMBL-EBI
 * Position: Postdoctoral Researcher
 * Activities: I reach the CABANA secondees as a Pre-Doctoral fellow at EMBL-EBI under the umbrella of the Dr. Juan A. Vizcaı́no. I analysed and manipulated metadata from the protein database (PRIDE) with the aim of identifying significant features of protein identification. I also organized and conducted online courses of Basic Bioinformatics for Latin American research professors.
