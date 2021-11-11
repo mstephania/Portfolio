@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phd.jpg
+img: dna.jpg
 category: Education
 title: PhD in Bioinformatics
 description: 2015-2020
@@ -9,7 +9,7 @@ description: 2015-2020
 * __2015 - 2020__
 * University of Sao Paulo
 * Thesis Title: "Cancer Immunology of Cutaneous Melanoma: A Systems Biology Approach"
-* Description: Systems biology seems to be the best approach to investigate the molecular mechanisms of the immune system in melanoma and could explain the tumour escape, proliferation, and growth in other tissues. I extracted, processed and analysed single-cell data from melanoma patients samples, identifying signatures of melanoma progression, and tumour evasion in order to generate novel insights into how tumour cells can evade immune surveillance.reveal new and unappreciated links between the immune system and melanoma progression.
+* Description: Systems biology help us to investigate the molecular mechanisms of the immune system and could explain the tumour escape, proliferation, and growth in other tissues. I extracted, processed and analysed single-cell data from melanoma patients samples, identifying insights into how tumour cells can evade immune surveillance revealing new and unappreciated links between the immune system and melanoma progression.
 * Advisor: Dr. Helder Nakaya
 * Scholarship from: CAPES
 
