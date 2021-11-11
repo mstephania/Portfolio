@@ -6,7 +6,7 @@ title: PhD in Bioinformatics
 description: 2015-2020
 ---
 
-* __2015 - 2020__
+* __ Sep 2015 - Sep 2020__
 * University of Sao Paulo
 * Thesis Title: "Cancer Immunology of Cutaneous Melanoma: A Systems Biology Approach"
 * Description: Systems biology help us to investigate the molecular mechanisms of the immune system and could explain the tumour escape, proliferation, and growth in other tissues. I extracted, processed and analysed single-cell data from melanoma patients samples, identifying insights into how tumour cells can evade immune surveillance revealing new and unappreciated links between the immune system and melanoma progression.
