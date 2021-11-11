@@ -9,7 +9,7 @@ description: |
 * __Sep 2015 - Sep 2020__
 * University of Sao Paulo
 * Thesis Title: "Cancer Immunology of Cutaneous Melanoma: A Systems Biology Approach"
-* Description: I extracted, processed and analysed single-cell data from melanoma patients samples. Using ystems biology I investigated the molecular mechanisms of the immune system identifying insights into how melanoma progresion can evade immune surveillance.
+* Goals: I extracted, processed and analysed single-cell data from melanoma patients samples. Using ystems biology I investigated the molecular mechanisms of the immune system identifying insights into how melanoma progresion can evade immune surveillance.
 * Advisor: Dr. Helder Nakaya
 * Scholarship from: CAPES, Ministry of Education, Brazil government
 
