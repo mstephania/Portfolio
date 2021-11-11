@@ -6,6 +6,6 @@ title: "List of Publications"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/MyName)
-- [GoogleScholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0003-4856-2937?lang=es)
+- [ResearchGate](https://www.researchgate.net/profile/Mindy-Munoz)
 
