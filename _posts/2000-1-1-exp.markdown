@@ -7,6 +7,5 @@ description: |
 ---
 
 * __Sep 2019 – Oct 2020__
-* EEuropean Bioinformatics Institute (EMBL-EBI)
-* Position: Postdoctoral Researcher
+* European Bioinformatics Institute (EMBL-EBI)
 * Activities: I reach the CABANA secondees as a Pre-Doctoral fellow at EMBL-EBI under the umbrella of the Dr. Juan A. Vizcaı́no. I analysed and manipulated metadata from the protein database (PRIDE) with the aim of identifying significant features of protein identification. I also organized and conducted online courses of Basic Bioinformatics for Latin American research professors.
