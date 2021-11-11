@@ -6,7 +6,7 @@ title: "Bioinformatician"
 description: |
 ---
 
-* __2012 – 2014__
-* *Department of Molecular Genetics and Microbiology
-Pontifical University Catholic of Chile (PUC)*
+* __Jan 2012 – Dec 2014__
+* Department of Molecular Genetics and Microbiology
+Pontifical University Catholic of Chile (PUC)
 * Activities: I was involved in the management of transcriptomics analysis. I analysed RNA-Seq raw data from quality control to entire processing analysis of Illumina Hiseq 2000 paired-end reads; including assembly; mapping; differential expression gene analysis; functional categorization; enrichment analysis. I performed microarray Affymetrix GeneChip® pre-processing, normalization and subsequent analysis in Vitis vinifera (grape).
