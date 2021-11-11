@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://github.com/mstephania/jekyll_ghpages/
-title: My Name
-email: email@gmail.com
-author: MYNAME
-description: "MyName's Personal Page"
+url: https://github.com/mstephania/Portfolio/
+title: Mindy Munoz
+email: mindystephania@gmail.com
+author: Mindy
+description: "MyProfile's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,13 +26,13 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/NyName 
+    url: https://github.com/mstephania
   - icon: envelope-o
     title: email
-    url: mailto:NyName@gmail.com
+    url: mailto:mindystephania@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/NyName/
+    url: https://www.linkedin.com/in/mindy-m-miranda/
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
