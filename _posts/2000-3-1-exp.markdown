@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dna.jpg
-category: Experiences
+category: Experience
 title: "Bioinformatician"
 description: |
 ---
