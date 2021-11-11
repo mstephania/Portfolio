@@ -2,13 +2,13 @@
 layout: default
 img: master.jpg
 category: Education
-title: Master's in Plant Physiology
+title: Bachelor's in Bioinformatics
 description: |
 ---
 
 * __2010 - 2012__
-* University of California
-* Dissertation Titile
-* Advisor: Dr. PI Name
-* Scholarship from: NSF
+* University of Talca
+* Dissertation Title: "Análisis bioinformático de datos de expresión génica global durante el desarrollo de la semilla de Vitis vinifera"
+* Advisors: Dr. Patricio Arce Johnson and Dr. Carmen Espinoza Cancino
+* Scholarship from: Bicentenario, Ministry of Education, Chile government
 
