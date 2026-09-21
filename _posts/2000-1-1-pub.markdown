@@ -8,4 +8,4 @@ description: |
 
 - [ORCID](https://orcid.org/0000-0003-4856-2937?lang=es)
 - [Google Scholar ](https://scholar.google.com/citations?user=vdIn8RcAAAAJ&hl=es&oi=ao)
-- [Dashboards](https://nextstrain.org/community/mstephania/Nextstrain_Ecuador)
+- [Interactive dashboard](https://nextstrain.org/community/mstephania/Nextstrain_Ecuador)
