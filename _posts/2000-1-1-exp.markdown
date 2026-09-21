@@ -2,11 +2,10 @@
 layout: default
 img: plot1.png
 category: Experiences
-title: Bioinformatician
+title: Bioinformatics Researcher - Sustainable Agriculture & Gene Modulation
 description: |
 ---
 __2024 - 2025__
-Bioinformatics Researcher - Sustainable Agriculture & Gene Modulation
 Biophytech SPA | Santiago, Chile
 * Led multi-omic analyses integrating transcriptomic profiles (RNA-Seq) and metabolomics in Solanum tuberosum and Fragaria x ananassa under biostimulant treatments and abiotic stress.
 * Translated complex molecular findings into practical recommendations and technical documentation to support agricultural innovation and patent applications.
