@@ -5,7 +5,7 @@ category: Experiences
 title: Research Assistant - Transcriptomics in Grapevine (Vitis vinifera)
 description: |
 ---
-* __2013 – 2014__
+__2013 – 2014__
 Department of Molecular Genetics and Microbiology
 Pontifical University Catholic of Chile (PUC)
 * Developed advanced transcriptomic analyses from raw RNA-Seq data in Vitis vinifera, encompassing de novo assembly, expression profiling, and functional enrichment (GO/KEGG).
